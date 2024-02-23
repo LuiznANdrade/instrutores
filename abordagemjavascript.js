@@ -3,7 +3,7 @@ $('body').css('display','block');
 const codigoJavascript = `
 <div class="question" id="questao1">
 <span>Nome &amp; Id do Oficial Aluno: Exemplo("Fulano | 123")</span><br>
-<input type="text" id="conscrito" placeholder="Digite sua Resposta" readonly>
+<input type="text" id="conscrito" placeholder="Digite sua Resposta">
 </div>
 <!-- Perguntas -->
 <div class="question">
